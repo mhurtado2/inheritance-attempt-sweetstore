@@ -1,4 +1,4 @@
-﻿namespace Garage
+﻿namespace Products
 {
     class Program
     {
@@ -10,10 +10,15 @@
              */
 
 
+
             /*
                 Step 2:
                     Create at least one instance of each kind of baked good
              */
+
+
+
+
 
             /*
                 Step 3:
