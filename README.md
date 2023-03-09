@@ -15,3 +15,4 @@ When you have completed your inheritance strategy, Madi would like to have all b
 1. You may need to define more than one, all-encompassing base class.
 2. You may need multiple levels of inheritance **Base -> Derived Child -> Derived Grandchild**.
 3. Draw out all of the possible groups, and sub-groups before writing any code.
+# inheritance-attempt-sweetstore
